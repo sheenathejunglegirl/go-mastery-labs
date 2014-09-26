@@ -4,7 +4,7 @@ import(
   "fmt"
 )
 
-type QuizQuestionPage struct {
+type QuestionPage struct {
   UnansweredQuestion Question
   Total int
   TotalAnsweredCorrectly int
