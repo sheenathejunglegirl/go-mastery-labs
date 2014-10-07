@@ -70,7 +70,7 @@ go install github.com/sheenathejunglegirl/get-going-with-go
 ```
 ###running
 ```
-cd src/github.com/sheenathejunglegirl/get-going-with-go/
+cd github.com/sheenathejunglegirl/get-going-with-go/
 $GOPATH/bin/get-going-with-go
 ```
 > [martini] listening on :3000 (development)
